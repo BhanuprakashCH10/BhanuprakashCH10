@@ -3,7 +3,10 @@
 
 A passionate Computer Science sophomore from IIT Tirupati with a strong foundation in programming and problem-solving. Deeply interested in software development
 
-All of my projects are available at : 
+-All of my projects are available at : 
+- 📫 How to reach me: cs23b012@iittp.ac.in
+
+
 <!--
 **BhanuprakashCH10/BhanuprakashCH10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
