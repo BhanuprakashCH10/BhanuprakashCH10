@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Bhanu prakash.ch
 
+
+A passionate Computer Science sophomore from IIT Tirupati with a strong foundation in programming and problem-solving. Deeply interested in software development
+
+All of my projects are available at : 
 <!--
 **BhanuprakashCH10/BhanuprakashCH10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
